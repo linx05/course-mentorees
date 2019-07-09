@@ -54,6 +54,6 @@ Finish with [Section 7](https://www.udemy.com/php-y-mysql/learn/lecture/4113898)
 
 Do the exercises in Section [10](https://www.udemy.com/php-y-mysql/learn/lecture/4317894#overview) and [11](https://www.udemy.com/php-y-mysql/learn/lecture/4334666#overview).
 
-## Week 7 - Laravel
+### Week 7 - Laravel
 
 TO-DO
