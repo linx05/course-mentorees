@@ -11,3 +11,5 @@ Section 1.1 to 1.3 of [Introducción al desarrollo de aplicaciones web](https://
 ## Week 2 - HTML
 
 Complete [HTML course](https://codigofacilito.com/cursos/HTML5) by Codigofacilito.
+
+Sections after `HTML5 Details` are optional.
